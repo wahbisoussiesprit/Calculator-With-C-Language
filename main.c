@@ -7,7 +7,7 @@ int main()
     system("color c") ;
 
     printf("----------------------------------------");
-    printf("       Calculator Created By Wahbi      ");
+    printf("       Calculator                       ");
     printf("----------------------------------------");
 
 
